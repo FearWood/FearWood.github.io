@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    font-family: Lato, sans-serif;
+}
+
+pre {
+    width: 100%;
+    font-family: Lato, sans-serif;
+    white-space: pre-wrap;       
+    white-space: -moz-pre-wrap;  
+    white-space: -pre-wrap;      
+    white-space: -o-pre-wrap;    
+    word-wrap: break-word;
+    font-size: 14px;  
+}
+
+a {
+    color: rgba(0,101,128,1);
+}
+
+.appName {
+    background-color: #333333;
+    color: white;
+    font-size: 38px;
+    text-align: center;
+    padding: 20px;
+}
+
+.pptitle {
+    background-color: #333333;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+}
+
+.appbody {
+    width: 1000px;
+    margin: auto;
+}
+
+.info {
+    font-size: 17px;
+    font-weight: 600;
+}
